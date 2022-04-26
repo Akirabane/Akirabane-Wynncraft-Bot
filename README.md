@@ -44,3 +44,4 @@ Need importantly those 2 repositories :
             <name>m2-dv8tion</name>
             <url>https://m2.dv8tion.net/releases</url>
         </repository>
+		
