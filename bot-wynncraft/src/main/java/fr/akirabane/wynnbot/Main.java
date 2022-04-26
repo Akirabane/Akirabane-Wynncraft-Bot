@@ -18,7 +18,7 @@ import java.util.*;
 public class Main {
 
     public static final GatewayIntent[] INTENTS = {GatewayIntent.GUILD_EMOJIS, GatewayIntent.DIRECT_MESSAGES, GatewayIntent.GUILD_MESSAGES, GatewayIntent.GUILD_MESSAGE_REACTIONS, GatewayIntent.GUILD_VOICE_STATES, GatewayIntent.GUILD_MEMBERS, GatewayIntent.GUILD_PRESENCES};
-    public static final String TOKEN = "OTY3MDU5MzQyODk5Njc1MTQ4.YmKyMg.AG4md4DOYXLlGpVgZHGaF_Nxi7Y";
+    public static final String TOKEN = "YOUR TOKEN LOL";
 
     public static void main(String[] args) throws LoginException {
 
