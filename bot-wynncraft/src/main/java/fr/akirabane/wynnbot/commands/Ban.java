@@ -1,6 +1,6 @@
 package fr.akirabane.wynnbot.commands;
 
-import ca.tristan.jdacommands.ICommand;
+import fr.akirabane.jdacommands.ICommand;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.Member;
 import net.dv8tion.jda.api.entities.Message;
