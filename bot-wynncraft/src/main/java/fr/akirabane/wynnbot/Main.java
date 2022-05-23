@@ -1,6 +1,6 @@
 package fr.akirabane.wynnbot;
 
-import ca.tristan.jdacommands.JDACommands;
+import fr.akirabane.jdacommands.JDACommands;
 import fr.akirabane.wynnbot.commands.*;
 import fr.akirabane.wynnbot.events.EventHello;
 import fr.akirabane.wynnbot.events.EventJoin;
@@ -18,7 +18,7 @@ import java.util.*;
 public class Main {
 
     public static final GatewayIntent[] INTENTS = {GatewayIntent.GUILD_EMOJIS, GatewayIntent.DIRECT_MESSAGES, GatewayIntent.GUILD_MESSAGES, GatewayIntent.GUILD_MESSAGE_REACTIONS, GatewayIntent.GUILD_VOICE_STATES, GatewayIntent.GUILD_MEMBERS, GatewayIntent.GUILD_PRESENCES};
-    public static final String TOKEN = "YOUR TOKEN LOL";
+    public static final String TOKEN = "YOUR DISCORD TOKEN";
 
     public static void main(String[] args) throws LoginException {
 
